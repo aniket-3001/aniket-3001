@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs.swarthmore.edu%2Fits%2Fwp-content%2Fuploads%2F2022%2F12%2Fgithub-universe-1920x768.png&f=1&nofb=1&ipt=e62db38529ed611a1d9ce91f48c19af73d08d198fbec1e0692021ad3d5430dcf&ipo=images)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400%2F6c0f9b95746151.5e9ecde69599e.gif&f=1&nofb=1&ipt=c96f04d286ead90cde2261497f5cebc2819e5ee25652762fa68a7e84ac841c74&ipo=images)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" witdh="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fgiphy.gif&f=1&nofb=1&ipt=b7d5edc88e7c4be510183cc53957f7dde92da36db358caa5c01079378bcff31f&ipo=images"
