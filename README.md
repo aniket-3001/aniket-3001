@@ -12,13 +12,14 @@
 </p>
 
 <!-- Contact -->
-- 📫 Reach me at **aniketgupta3001@gmail.com**
+<p align="center">
+  📫 Reach me at <strong>aniketgupta3001@gmail.com</strong>
+</p>
 
 ---
 
-### 🌐 Connect with me
-
-<p align="left">
+## 🌐 Connect with me  
+<p align="center">
   <a href="https://codeforces.com/profile/aniket_3001" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
   </a>
@@ -32,9 +33,8 @@
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
+## 🛠️ Languages and Tools  
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
@@ -48,16 +48,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
+## 📊 GitHub Stats  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-3001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniket-3001&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-3001" alt="GitHub Streak" />
 </p>
