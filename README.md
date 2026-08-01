@@ -6,6 +6,13 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<!-- Portfolio -->
+<p align="center">
+  <a href="https://aniket-3001.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-aniket--3001.github.io-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket-3001&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-3001" />
