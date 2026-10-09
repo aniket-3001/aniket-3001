@@ -3,18 +3,9 @@
   <img alt="Aniket Gupta, backend and infrastructure" src="assets/banner-light.svg" width="100%">
 </picture>
 
-I work on backend and infra, mostly Python, Go, Rust and TypeScript. These days I contribute to [Kubeflow](https://github.com/kubeflow), and I like algorithms and hackathons.
+I work on backend and infra, mostly Python, Go, Rust and TypeScript. I'm a beginner, but I'm passionate about contributing to open source. I also like algorithms and hackathons.
 
 [Portfolio](https://aniket-3001.github.io/) · [LinkedIn](https://www.linkedin.com/in/aniket-gupta-754260202) · [Email](mailto:aniketgupta3001@gmail.com)
-
-### Open source
-
-**[kubeflow/sdk](https://github.com/kubeflow/sdk)**, the Python SDK for running AI workloads on Kubernetes
-
-- [#844](https://github.com/kubeflow/sdk/pull/844) retry transient API errors when reading pod logs
-- reviewed [#813](https://github.com/kubeflow/sdk/pull/813), [#806](https://github.com/kubeflow/sdk/pull/806), [#762](https://github.com/kubeflow/sdk/pull/762)
-
-[All my Kubeflow PRs](https://github.com/pulls?q=is%3Apr+author%3Aaniket-3001+org%3Akubeflow)
 
 ### Hackathons
 

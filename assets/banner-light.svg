@@ -14,11 +14,11 @@
   <rect x="64" y="64" width="64" height="5" rx="2.5" fill="url(#bar)"/>
   <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#1f2328" letter-spacing="-1">Aniket Gupta</text>
   <text x="64" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#59636e">Backend and infrastructure</text>
-  <text x="64" y="204" font-family="Consolas, Menlo, monospace" font-size="16" fill="#0969da">contributing to Kubeflow</text>
+  <text x="64" y="204" font-family="Consolas, Menlo, monospace" font-size="16" fill="#0969da">passionate about open source</text>
   <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#59636e" opacity="0.9">
-    <text x="760" y="104">$ kubectl get trainjobs</text>
-    <text x="760" y="132" fill="#0969da">NAME     STATE</text>
-    <text x="760" y="156">job-1    Running</text>
-    <text x="760" y="180">job-2    Complete</text>
+    <text x="760" y="104">$ git log --oneline</text>
+    <text x="760" y="132" fill="#0969da">3f9a1c2 fix a bug</text>
+    <text x="760" y="156">b72e0d4 learn something</text>
+    <text x="760" y="180">c01d8aa keep going</text>
   </g>
 </svg>
