@@ -19,7 +19,7 @@ jobs:
           image-file: assets/stats-dark.svg
           colors: dark
           include-title: false
-          hide-keys: general, repositories
+          hide-keys: general, repositories, private
           language-repository-exclusions: Network-Science-Project
           commit-message: update stats
         env:
@@ -31,7 +31,7 @@ jobs:
           image-file: assets/stats-light.svg
           colors: light
           include-title: false
-          hide-keys: general, repositories
+          hide-keys: general, repositories, private
           language-repository-exclusions: Network-Science-Project
           commit-message: update stats
         env:
