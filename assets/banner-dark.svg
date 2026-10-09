@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Aniket Gupta, backend and infrastructure">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="14" fill="url(#bg)" stroke="#8b949e" stroke-opacity="0.35"/>
+  <g opacity="0.07" stroke="#e6edf3" stroke-width="1">
+    <path d="M0 60H1000M0 120H1000M0 180H1000M200 0V240M400 0V240M600 0V240M800 0V240"/>
+  </g>
+  <rect x="64" y="64" width="64" height="5" rx="2.5" fill="url(#bar)"/>
+  <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#e6edf3" letter-spacing="-1">Aniket Gupta</text>
+  <text x="64" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#8b949e">Backend and infrastructure · IIIT-Delhi</text>
+  <text x="64" y="204" font-family="Consolas, Menlo, monospace" font-size="16" fill="#58a6ff">contributing to Kubeflow</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#8b949e" opacity="0.9">
+    <text x="760" y="104">$ kubectl get trainjobs</text>
+    <text x="760" y="132" fill="#58a6ff">NAME     STATE</text>
+    <text x="760" y="156">job-1    Running</text>
+    <text x="760" y="180">job-2    Complete</text>
+  </g>
+</svg>

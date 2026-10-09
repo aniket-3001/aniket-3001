@@ -1,69 +1,27 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/boYxZ1fa72kcgr70sN/giphy.gif" width="100%" alt="Banner">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Aniket Gupta, backend and infrastructure" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate developer from India</h3>
+I work on backend and infra, mostly Python, Rust and TypeScript. These days I contribute to [Kubeflow](https://github.com/kubeflow).
 
-<!-- Portfolio -->
-<p align="center">
-  <a href="https://aniket-3001.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aniket--3001.github.io-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[Portfolio](https://aniket-3001.github.io/) · [LinkedIn](https://www.linkedin.com/in/aniket-gupta-754260202) · [Email](mailto:aniketgupta3001@gmail.com)
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket-3001&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-3001" />
-</p>
+### Open source
 
-<!-- Contact -->
-<p align="center">
-  📫 Reach me at <strong>aniketgupta3001@gmail.com</strong>
-</p>
+**[kubeflow/sdk](https://github.com/kubeflow/sdk)**, the Python SDK for running AI workloads on Kubernetes
 
----
+- [#844](https://github.com/kubeflow/sdk/pull/844) retry transient API errors when reading pod logs
+- reviewed [#813](https://github.com/kubeflow/sdk/pull/813), [#806](https://github.com/kubeflow/sdk/pull/806), [#762](https://github.com/kubeflow/sdk/pull/762)
 
-## 🌐 Connect with me  
-<p align="center">
-  <a href="https://codeforces.com/profile/aniket_3001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/aniket_3001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/aniketguwr5m" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="40" height="40"/>
-  </a>
-</p>
+[All my Kubeflow PRs](https://github.com/pulls?q=is%3Apr+author%3Aaniket-3001+org%3Akubeflow)
 
----
+### Stack
 
-## 🛠️ Languages and Tools  
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-3001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-3001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-3001" alt="GitHub Streak" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
