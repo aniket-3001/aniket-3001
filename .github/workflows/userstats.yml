@@ -1,0 +1,38 @@
+name: user stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: stats card (dark)
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/stats-dark.svg
+          colors: dark
+          include-title: false
+          hide-keys: joined, mostStarred, mostForked, followers, following, private
+          language-repository-exclusions: Network-Science-Project
+          commit-message: update stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: stats card (light)
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/stats-light.svg
+          colors: light
+          include-title: false
+          hide-keys: joined, mostStarred, mostForked, followers, following, private
+          language-repository-exclusions: Network-Science-Project
+          commit-message: update stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

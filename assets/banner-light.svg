@@ -13,7 +13,7 @@
   </g>
   <rect x="64" y="64" width="64" height="5" rx="2.5" fill="url(#bar)"/>
   <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#1f2328" letter-spacing="-1">Aniket Gupta</text>
-  <text x="64" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#59636e">Backend and infrastructure · IIIT-Delhi</text>
+  <text x="64" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#59636e">Backend and infrastructure</text>
   <text x="64" y="204" font-family="Consolas, Menlo, monospace" font-size="16" fill="#0969da">contributing to Kubeflow</text>
   <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#59636e" opacity="0.9">
     <text x="760" y="104">$ kubectl get trainjobs</text>
