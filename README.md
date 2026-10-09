@@ -1,11 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aniket Gupta, backend and infrastructure" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Aniket Gupta, backend and infrastructure" src="assets/banner.png" width="100%">
 
 I work on backend and infra, mostly Python, Go, Rust and TypeScript. I'm a beginner, but I'm passionate about contributing to open source. I also like algorithms and hackathons.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=flat-square)](https://aniket-3001.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=flat-square)](https://www.linkedin.com/in/aniket-gupta-754260202) [![Email](https://img.shields.io/badge/Email-4f46e5?style=flat-square)](mailto:aniketgupta3001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-b8721a?style=flat-square)](https://aniket-3001.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-b8721a?style=flat-square)](https://www.linkedin.com/in/aniket-gupta-754260202) [![Email](https://img.shields.io/badge/Email-b8721a?style=flat-square)](mailto:aniketgupta3001@gmail.com)
 
 ### Hackathons
 
@@ -17,10 +14,7 @@ I love solving algorithms. Working through [Jeff Erickson's *Algorithms*](https:
 
 ### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub contributions and top languages" src="assets/stats-light.svg" width="480">
-</picture>
+<img alt="GitHub contributions and top languages" src="assets/stats.svg" width="480">
 
 ### Stack
 

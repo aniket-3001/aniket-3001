@@ -13,23 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: stats card (dark)
+      - name: stats card
         uses: cicirello/user-statistician@v1
         with:
-          image-file: assets/stats-dark.svg
-          colors: dark
-          include-title: false
-          hide-keys: general, repositories, private
-          language-repository-exclusions: Network-Science-Project
-          commit-message: update stats
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: stats card (light)
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: assets/stats-light.svg
-          colors: light
+          image-file: assets/stats.svg
+          colors: "#fbf1e0 #e6cfae #e08a1e #3b2a1f #5b4636"
           include-title: false
           hide-keys: general, repositories, private
           language-repository-exclusions: Network-Science-Project
