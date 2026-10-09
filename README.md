@@ -5,7 +5,7 @@
 
 I work on backend and infra, mostly Python, Go, Rust and TypeScript. I'm a beginner, but I'm passionate about contributing to open source. I also like algorithms and hackathons.
 
-[Portfolio](https://aniket-3001.github.io/) · [LinkedIn](https://www.linkedin.com/in/aniket-gupta-754260202) · [Email](mailto:aniketgupta3001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=flat-square)](https://aniket-3001.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=flat-square)](https://www.linkedin.com/in/aniket-gupta-754260202) [![Email](https://img.shields.io/badge/Email-4f46e5?style=flat-square)](mailto:aniketgupta3001@gmail.com)
 
 ### Hackathons
 
